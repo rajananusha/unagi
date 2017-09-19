@@ -1,0 +1,26 @@
+{
+  "name": "unagi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "8.5.0",
+    "npm": "5.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajananusha/unagi.git"
+  },
+  "author": "Sriram|Anusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajananusha/unagi/issues"
+  },
+  "homepage": "https://github.com/rajananusha/unagi#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
